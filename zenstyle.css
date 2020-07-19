@@ -219,6 +219,7 @@ a {
 right:0;
 top: 600px;
 color: aliceblue;
+background-color: slategrey;
 border-radius: 100px;
  }
 
@@ -235,7 +236,7 @@ border-radius: 100px;
   }
 
 
- .zen-resources,.intro h2,.preamble h3, .explanation h3, .participation h3, .design-archives h3, .benefits h3, .requirements h3{
+ .intro h2,.preamble h3, .explanation h3, .participation h3, .design-archives h3, .benefits h3, .requirements h3{
     background: linear-gradient(130deg, darkgreen, #11927c, #07b0e3,green,#FF6A80, orange,ivory);
     background-size: 400% 400%;
 

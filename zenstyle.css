@@ -159,7 +159,7 @@ display:inline-grid;
   overflow-x: hidden;
   padding-top: 20px;
   background-color: seagreen;
-    background-image: url("../netlify-zen-garden/bamboo.jpg");
+    background-image: url("bamboo.jpg");
   background-size: cover;
 }
 .design-selection h3{
